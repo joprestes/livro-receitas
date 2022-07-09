@@ -1,5 +1,5 @@
-#Pizza de calabresa
-**Negrito**
-_italico
-:chicken
+# Pizza de calabresa
+* *Negrito* *
+_ italico
+: chicken
 
