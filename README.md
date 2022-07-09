@@ -3,4 +3,4 @@
 Olá! Bem vindo ao meu livro de receitas :wave:
 
 - Pizza de Calabresa
-- Pizza de Mussarela
+- Pizza de Frango
